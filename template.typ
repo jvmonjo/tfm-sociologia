@@ -1,17 +1,5 @@
 // This function gets your whole document as its `body` and formats
 // it as a simple fiction book.
-#let mainColor = blue
-#let lightTextColor = luma(90)
-
-
-// If you want background image put the relative path as string
-#let backgroundImage = none
-
-// If you want logo put the relative path as string
-#let logo = none
-
-// Cover bottom text
-#let bottomText = none
 
 #let book(
   mainColor: blue,
