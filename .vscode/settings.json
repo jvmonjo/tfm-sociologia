@@ -1,0 +1,51 @@
+{
+    "typst-preview.fontPaths": [
+        "${workspaceFolder}/fonts"
+    ],
+    "typst-lsp.exportPdf": "never",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 200,
+    "cSpell.enabled": true,
+    "cSpell.checkOnlyEnabledFileTypes": false,
+    "cSpell.language": "ca, en, es",
+    "cSpell.ignorePaths" : [
+        "**/bibliografia/**"
+    ],
+    "cSpell.words": [
+        "author",
+        "Autoformazione",
+        "Barisi",
+        "Beckhoff",
+        "bibliography",
+        "brogden",
+        "chapter",
+        "dedication",
+        "Fira",
+        "GVLs",
+        "haslam",
+        "iecst",
+        "Lato",
+        "luma",
+        "milgram",
+        "multicore",
+        "nums",
+        "nvarner",
+        "pagebreak",
+        "pagebreaks",
+        "Pagella",
+        "Palatino",
+        "parbreak",
+        "publishing",
+        "settick",
+        "Simulink",
+        "smallcaps",
+        "sottocartella",
+        "style",
+        "subtitle",
+        "twincat",
+        "typst",
+        "vals",
+        "Verl"
+    ],
+    "editor.tabSize": 2
+}
