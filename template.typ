@@ -14,6 +14,8 @@
 #let bottomText = none
 
 #let book(
+  mainColor: blue,
+  lightTextColor: luma(90),
   // The book's title.
   title: "",
 
@@ -62,7 +64,7 @@
 
     #text(2em, fill: mainColor)[*#title*]
     #v(2em, weak: true)
-    #text(1.4em, fill: lightTextColor)[#subtitle]
+    #text(1.8em, fill: lightTextColor)[#subtitle]
     #v(2em, weak: true)
     #text(1.6em, author)
     #if logo != none {
@@ -85,7 +87,7 @@
   // Display the dedication at the top of the third page.
   if dedication != none {
     v(15%)
-    align(center, strong(dedication))
+    align(center, dedication)
   }
 
   // Books like their empty pages.
