@@ -17,7 +17,7 @@
   mainColor: blue,
   lightTextColor: luma(90),
   // The book's title.
-  title: "",
+  title: [Title],
 
   // The book's author.
   author: "Author Name",
