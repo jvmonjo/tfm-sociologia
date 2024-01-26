@@ -14,9 +14,9 @@ Elogi de la paraula (1903)],
   Tutor: _Dr. Rafael Xambó_ \ ],
 
   publishing-info: [
-    2013 © JOSEP MONJO \
-    Reedició 2024 \
-    josep\@monjo.eu \
+    2013 © JOSEP VICENT MONJO AGUT \
+    Reeditat, Gener 2024 \
+    #link("mailto:josep@monjo.eu") \
     València \
     #link("https://monjo.eu/") \
     \
