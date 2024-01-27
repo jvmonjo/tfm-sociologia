@@ -34,7 +34,7 @@
 
   // Set the body font. TeX Gyre Pagella is a free alternative
   // to Palatino.
-  set text(font: "EB Garamond")
+  set text(font: "EB Garamond", size: 1.2em)
 
   // Configure the page properties.
   set page(
@@ -117,7 +117,7 @@
       // Are we on an odd page?
       let i = counter(page).at(loc).first()
       if calc.odd(i) {
-        return text(0.95em, smallcaps(title), fill: lightTextColor)
+        return text(0.85em, smallcaps(title), fill: lightTextColor)
       }
 
       // Are we on a page that starts a chapter? (We also check
