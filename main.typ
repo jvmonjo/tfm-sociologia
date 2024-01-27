@@ -1,7 +1,7 @@
 #import "template.typ": *
 #show: book.with(
   mainColor: rgb(0, 46, 82),
-  title: [Els discursos com a mecanisme legitimador \ de polítiques restrictives de llibertat],
+  title: [Els discursos com a mecanisme legitimador de polítiques restrictives de llibertat],
   subtitle: "El delicte d'injúries a la Corona",
   author: "Josep Monjo",
   dedication: [_*«Aquí la paraula ho és tot: \ 

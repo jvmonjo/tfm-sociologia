@@ -43,10 +43,11 @@
   )
   show footnote.entry: set text(style: "italic", fill: lightTextColor)
   // The first page.
-  page(margin: 0cm, header: none, align(center + horizon)[
+  page(margin: 1.5cm, header: none, align(center + horizon)[
     
     #if backgroundImage != none {
       set image(width: 100%, height: 100%)
+      set page(margin: 0cm)
       place(bottom, image(backgroundImage))
     }
 
