@@ -34,8 +34,8 @@
 
   // Set the body font. TeX Gyre Pagella is a free alternative
   // to Palatino.
-  set text(font: "EB Garamond", size: 1.2em)
-
+  set text(font: "EB Garamond", size: 1.2em, lang: "ca")
+  show figure: set text(0.8em, fill: lightTextColor)
   // Configure the page properties.
   set page(
     paper: paper,
@@ -102,9 +102,10 @@
   }
 
   // Start with a chapter outline.
-  show outline: set text(16pt, fill: mainColor.lighten(20%), weight: 400)
+  show outline: set text(16pt, fill: mainColor)
   show outline: set par(leading: 1.2em)
   outline(title: [Capítols], depth: 3, indent: true)
+  show outline: set page(header: text(0.75em, smallcaps(title), fill: lightTextColor))
   
   // Configure page properties.
   set page(
