@@ -30,6 +30,9 @@ Elogi de la paraula (1903)],
 
 #include("capitols/01-intro.typ")
 #include("capitols/02-metodologia.typ")
+#include("capitols/03-resultats.typ")
+#include("capitols/04-conclusions.typ")
+#include("capitols/05-discussio.typ")
 
 #bibliography(
 "./bibliografia/export-data.bib",
