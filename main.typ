@@ -33,14 +33,10 @@ Elogi de la paraula (1903)],
 #include("capitols/03-resultats.typ")
 #include("capitols/04-conclusions.typ")
 #include("capitols/05-discussio.typ")
+#include("capitols/06-noticies.typ")
 
 #bibliography(
 "./bibliografia/export-data.bib",
 title: "Bibliografia",
 style: "apa",
-)
-
-#outline(
-  title: [Índex de figures],
-  target: figure.where(kind: image),
 )
