@@ -28,7 +28,8 @@ Elogi de la paraula (1903)],
   ],
 )
 
-#include {"capitols/01-intro.typ"}
+#include("capitols/01-intro.typ")
+#include("capitols/02-metodologia.typ")
 
 #bibliography(
 "./bibliografia/export-data.bib",
