@@ -45,7 +45,7 @@ Amb els discursos es posen de manifest les ideologies subjacents d'una manera m�
 
 === Els discursos com a mecanisme legitimador
 
-Cal primer, distingir entre text i discurs. El propi #cite(<ibanez_mas_1992>, form: "prose") conceptualitza el text com la matriu ideològica que es troba a la base d'alguns discursos. Jo em referiré al text atenent al seu significat literal, és a dir,  "_ Contingut d'un  escrit, les pròpies paraules d'un autor (...) _", tal i com apareix a la primera accepció del Diccionari de l'Institut d'Estudis Catalans (DIEC2), en contraposició al concepte discurs, que tractaré de definir a continuació.
+Cal primer, distingir entre text i discurs. El propi #cite(<ibanez_mas_1992>, form: "prose") conceptualitza el text com la matriu ideològica que es troba a la base d'alguns discursos. Jo em referiré al text atenent al seu significat literal, és a dir,  "_Contingut d'un  escrit, les pròpies paraules d'un autor (...)_", tal i com apareix a la primera accepció del Diccionari de l'Institut d'Estudis Catalans (DIEC2), en contraposició al concepte discurs, que tractaré de definir a continuació.
 
 Existeixen nombroses definicions de "_discurs_", però de totes elles podem extraure que el discurs va més enllà del text. Podríem dir que el text no és més que un dels suports visibles del discurs. "_Els discursos -tinguts en compte com a maneres de parlar, escriure i, en general, d'expressar que porten als participants de qualsevol situació comunicativa a adoptar determinades actituds davant àmbits de l'activitat sociocultural_" @basil_teoritraduccion_1995.
 
