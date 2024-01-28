@@ -39,3 +39,8 @@ Elogi de la paraula (1903)],
 title: "Bibliografia",
 style: "apa",
 )
+
+#outline(
+  title: [Índex de figures],
+  target: figure.where(kind: image),
+)
