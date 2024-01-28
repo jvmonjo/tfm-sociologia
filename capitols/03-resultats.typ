@@ -514,7 +514,7 @@ En altra ocasió s'usa la següent analogia:
 
 === Espai semàntic al voltant de la caricatura
 
-Un dels elements més destacables dels "fets de El Jueves", no és tant que no es permeta la crítica a la monarquia, com que se censure un dibuix satíric, una caricatura. Tan important són les paraules que estan, com les que no estan. Per això resulta interessant c ó m en nombroses ocasions **s'omet la paraula "caricatura"**. És lògic, doncs, pensar que si s'omet aquesta paraula o qualsevol altra referència a que estem parlant d'un dibuix, la gravetat dels fets s'incremente artificialment, inclús quan aquesta referència sí que aparega a altres parts del text.
+Un dels elements més destacables dels "fets de El Jueves", no és tant que no es permeta la crítica a la monarquia, com que se censure un dibuix satíric, una caricatura. Tan important són les paraules que estan, com les que no estan. Per això resulta interessant c ó m en nombroses ocasions *s'omet la paraula "caricatura"*. És lògic, doncs, pensar que si s'omet aquesta paraula o qualsevol altra referència a que estem parlant d'un dibuix, la gravetat dels fets s'incremente artificialment, inclús quan aquesta referència sí que aparega a altres parts del text.
 
 "_(...)la trascendencia penal consiste en la "exhibición" de la escena sexual(...)" (Agencias, 2007e)_
 

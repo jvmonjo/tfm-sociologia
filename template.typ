@@ -41,6 +41,7 @@
     paper: paper,
     margin: (bottom: 1.75cm, top: 2.25cm),
   )
+ 
   show footnote.entry: set text(style: "italic", fill: lightTextColor)
   // The first page.
   page(margin: 1.5cm, header: none, align(center + horizon)[
@@ -90,7 +91,7 @@
   
   show heading: it => {
 
-    // Create the heading numbering.
+    // Create the heading numbering for subchapters.
     let number = if it.numbering != none {
       counter(heading).display(it.numbering)
       h(7pt, weak: true)
@@ -102,10 +103,16 @@
   }
 
   // Start with a chapter outline.
+  show outline.entry.where(
+    level: 1
+  ): it => {
+    strong(it)
+  }
   show outline: set text(16pt, fill: mainColor)
-  show outline: set par(leading: 1.2em)
+  show outline: set par(leading: 1em, justify: false)
+  show outline: set page(header: text(0.74em, smallcaps(title), fill: lightTextColor))
   outline(title: [Capítols], depth: 3, indent: true)
-  show outline: set page(header: text(0.75em, smallcaps(title), fill: lightTextColor))
+
   
   // Configure page properties.
   set page(
@@ -141,18 +148,18 @@
     // Always start on odd pages.
     pagebreak(to: "odd")
 
-    // Create the heading numbering.
+    // Create the heading numbering for main chapters.
     let number = if it.numbering != none {
       counter(heading).display(it.numbering)
       h(7pt, weak: true)
     }
 
     v(5%)
-    text(2em, weight: 700, fill: mainColor, block([#number #it.body]))
+    text(1.5em, weight: 700, fill: mainColor, block([#number #it.body]))
     v(1.25em)
   }
-  show heading: set text(11pt, fill: mainColor, weight: 400)
 
   show bibliography: set par(first-line-indent: 0pt)
+
   body
 }
