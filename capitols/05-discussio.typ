@@ -1,1 +1,9 @@
 = Discussió
+
+La creixent preocupació dels juristes per l'expansió del dret penal, es combina amb la meua preocupació per les senyals de que s'est an aplicant elements de la doctrina del dret penal de l'enemic, al delicte d'injúries a la corona. Com ara el fet de que existisca la possibilitat d'aplicar una pena a totes llums desproporcionada en relació a la gravetat dels fets .
+
+Pel que fa a la metodologia usada en el present treball, cal dir que analitzar aquests texts de premsa amb aquesta metodologia té certes limitacions, com ara que desconeixem la interpretació que fa el receptor del missatge @philo_can_2007. Aquestes limitacions poden i deuen ser salvades amb l'ús de la triangulació metodològica. Per això, malgrat que excedeix l'abast del present treball per la limitació de temps i recursos, resulta interessant per a futures investigacions aprofundir en els processos de producció i en els processos de recepció i descodificació d'aquests discursos. Per al procés de recepció i descodificació seria interessant poder realitzar un disseny d'anàlisi de discurs amb grups de discussió.
+
+Altra limitació que es pot salvar en futures ampliacions és el fet de poder realitzar una comparació amb altres mitjans de comunicació de diferent ideologia. D'eixa manera podríem veure les diferents posicions discursives, configuracions narratives i espais semàntics segons la ideologia del mitjà de comunicació.
+
+Malgrat totes les limitacions que he citat, espere que el present treball servisca per obrir una xicoteta porta per a la reflexió sobre com ens afecten els discursos que rebem tots els dies sense ni tan sols ser-ne conscients, i que aquesta reflexió ens faça estar més predisposats a la crítica i a l'acció, deixant de ser els subjectes passius que ens acusen injustament de ser, i m'esperone a mi i a d'altres a seguir analitzant el nostre entorn social des d'una perspectiva crítica.
