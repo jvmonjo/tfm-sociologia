@@ -2,7 +2,7 @@
 
 Per finalitzar el present treball, faré una síntesi de les principals conclusions que he extret de l'anàlisi del discurs del present corpus.
 
-La primera observació que he de realitzar es la referida a la *posició discursiva*. Ha quedat palès que el discurs analitzat és aquell tramés per el que es coneixen com a elits simbòliques ( polítics, periodistes,...). És lògic, per tant, pensar que aquestes elits tractaran de legitimar-se a sí mateixes, i ho faran indicant-nos allò que és "admissible" i allò que no ho és, allò que és "normal" i allò que se n'ix de la norma.
+La primera observació que he de realitzar es la referida a la *posició discursiva*. Ha quedat palès que el discurs analitzat és aquell tramés pel que es coneixen com a elits simbòliques ( polítics, periodistes,...). És lògic, per tant, pensar que aquestes elits tractaran de legitimar-se a sí mateixes, i ho faran indicant-nos allò que és "admissible" i allò que no ho és, allò que és "normal" i allò que se n'ix de la norma.
 
 Aquestes elits, es valen del seu poder per a usar els mitjans de comunicació de masses de forma preferent, i els seus missatges produeixen un efecte cognitiu en els lectors, bé perquè fan ús d'un *poder legítim,* donat que la posició discursiva és la de jutges, fiscals,... , o inclús d'un *poder referent,* sobretot articles d'opinió (en aquest cas amb un efecte de cristal·lització de les opinions ja existents en el lector) , o bé mitjançant l'ús d' *heurístics* com són el desprestigi d'aquells que són crítics amb la corona, o la desaparició de la paraula "caricatura" per tractar d'incrementar artificialment la gravetat dels fets i amagar l'autèntica naturalesa, o l'absència de la paraula "censura" .
 
